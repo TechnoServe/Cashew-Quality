@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "622297898567",
+    "firebase_url": "https://cqna-benincaju.firebaseio.com",
+    "project_id": "cqna-benincaju",
+    "storage_bucket": "cqna-benincaju.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622297898567:android:fce67e262142162ff99b62",
+        "android_client_info": {
+          "package_name": "rw.wiredin.cnqa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622297898567-7t2lsett3apl75n49rnbve8ua7ofump5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9SfqgLV9uZrJ_Tt4q1lLfm2EYT24NeZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622297898567-7t2lsett3apl75n49rnbve8ua7ofump5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

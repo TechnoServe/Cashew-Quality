@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Caju",
+    "slug": "caju-tns",
+    "owner": "wiredin_expo",
+    "version": "1.4",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#D97E18"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "androidStatusBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#5D0003"
+    },
+    "android": {
+      "package": "rw.wiredin.cnqa",
+      "versionCode": 4194433,
+      "googleServicesFile": "./google-services.json"
+    },
+    "plugins": [
+      "@react-native-firebase/app",
+      "./firebase-iid-plugin",
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/notification-icon.png"
+        }
+      ]
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "445976325638",
+    "project_id": "cnqa-caju-test",
+    "storage_bucket": "cnqa-caju-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445976325638:android:ccd8833542fe8f60599d87",
+        "android_client_info": {
+          "package_name": "rw.wiredin.cnqa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445976325638-a323fd7c9ed0em4rajdjd1atqp7rnnfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPTS0mthaG5ighbRNForOf_iTDrAOBsxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445976325638-a323fd7c9ed0em4rajdjd1atqp7rnnfh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
