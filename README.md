@@ -20,8 +20,7 @@
 2. Setup firebase connection database.
 
     ```
-       go in config file(src/core/utils/config.js)
-       uncomment firebaseConfig block
+       copy src/core/utils/config.example.js to src/core/utils/config.js
        replace object values with your firebase configuration
     ```
 
@@ -30,4 +29,4 @@
     ```
    expo start
 
-## Test
+
