@@ -1,32 +1,35 @@
 # TNS Cashew Nut Quality Audit Mobile APP
 
 ## Tech Stack
- - React-native
- - TypeScript
- - Expo
- - Firebase
+- React-native
+- TypeScript
+- Expo
+- Firebase
 
 ## Requirements
- - Expo
- - Firebase account
+- Expo
+- Firebase account
 
 ## Setup
 
-1. Run
+1. Go into the Project Folder and Run
     ```
     npm install
     ```
 
 2. Setup firebase connection database.
-
+   Create your config file by running:
+ 
     ```
-       copy src/core/utils/config.example.js to src/core/utils/config.js
-       replace object values with your firebase configuration
+   cd src/core/utils/
+   cp src/core/utils/config.example.js src/core/utils/config.js
     ```
+   Replace object values with your firebase configuration
 
-3. Run the app
+4. Run the app
 
     ```
    expo start
+   ```
 
 
